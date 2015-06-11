@@ -1,7 +1,7 @@
 A very generic SQL-based version of the Messier catalog.
 See : http://messier.obspm.fr/
 
-Database contains 3 tables :
+Database DDL file is aimed at MySQL, hence the InnoDB engine statements for FK uses. It contains 3 tables :
 
  - constellation : All existing constellations with Latin, English & French names
  - objtype       : Astronomical object types used in this catalog
