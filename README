@@ -4,8 +4,8 @@ See : http://messier.obspm.fr/
 Database contains 3 tables :
 
  - constellation : All existing constellations with Latin, English & French names
- - objtype       : All astronomical object types used in this catalog
- - messier       : All Messier objects with J2000 coordinates, magnitude, size, object type and constellation
+ - objtype       : Astronomical object types used in this catalog
+ - messier       : Messier objects with J2000 coordinates, magnitude, size, object type and constellation
 
 Warning : Due to key constraints, the 'messier' table must be created and populated last
 
