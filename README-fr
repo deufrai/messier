@@ -1,0 +1,19 @@
+Une version très basique du catalogue Messier basée sur SQL.
+Pour des information générales sur le catalogue et sa création : http://messier.obspm.fr/
+
+La base de données contient trois tables :
+
+ - constellation : Toutes les constellations du ciel, avec leur nom en latin, français et anglais
+ - objtype       : Les types d'objets astronomiques utilisés par le catalogue
+ - messier       : Les objets du Messier avec leurs coordonnées J2000, magnitude, taille, nom, type et constellation
+
+Le fichier DDL de la base de données et conçu pour une base MySQL, d'où l'utilisation des directives ENGINE InnoDB pour permettre l'utilisation des clefs étrangères.
+Attention : L'utilisation de contraintes de clefs étrangères oblige à créer et peupler la table 'messier' en dernier.
+
+A l'exception des galaxies, nous utilisions des types d'objets 'presques standards' décrits et définis par le Centre de Données astronomiques de Strasbourg. 
+La nomenclature est disponible ici : http://cds.u-strasbg.fr/cgi-bin/Otype?IR
+Les types de galaxies utilisés dans cette base de données sont une simplification de la classification de Hubble.
+
+Si ce projet suscite un peu d'intérêt, une interface web avec requêteur personnalisable pourrait voir le jour.
+
+Enjoy
