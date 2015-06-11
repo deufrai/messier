@@ -1,0 +1,1 @@
+ALTER TABLE `messier` CHANGE COLUMN `magnitude` `magnitude` DECIMAL(3,1) NOT NULL;

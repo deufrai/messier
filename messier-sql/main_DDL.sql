@@ -29,7 +29,7 @@ CREATE TABLE `messier` (
   `RA` time NOT NULL,
   `DECL` time NOT NULL,
   `con_id` char(3) COLLATE utf8_unicode_ci NOT NULL,
-  `magnitude` decimal(4,2) NOT NULL,
+  `magnitude` decimal(3,1) NOT NULL,
   `type_id` varchar(10) COLLATE utf8_unicode_ci NOT NULL,
   `diam` time NOT NULL,
   PRIMARY KEY (`id`),

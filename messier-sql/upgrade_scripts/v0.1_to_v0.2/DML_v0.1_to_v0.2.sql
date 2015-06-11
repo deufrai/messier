@@ -1,0 +1,1 @@
+update messier set name = 'Pinwheel galaxy' where id = 101;
