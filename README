@@ -1,6 +1,9 @@
 A very basic SQL-based version of the Messier catalog.
 For more general information about the catalog and how it was first created, see : http://messier.obspm.fr/
 
+Database details :
+==================
+
 Database contains 3 tables :
 
  - constellation : All existing constellations with Latin, English & French names
@@ -10,10 +13,17 @@ Database contains 3 tables :
 Database DDL file is aimed at MySQL, hence the InnoDB engine statements for FK uses.
 Warning : Due to key constraints, the 'messier' table must be created and populated last
 
-Except for galaxies, we use quite standard object types described by the Strasbourg astronomical Data Center. 
-See : http://cds.u-strasbg.fr/cgi-bin/Otype?IR
-Galaxy types are a simplified version of Hubble's classification.
+Astro details :
+===============
 
+1) Except for galaxies, we use quite standard object types described by the Strasbourg astronomical Data Center. 
+   See : http://cds.u-strasbg.fr/cgi-bin/Otype?IR
+   Galaxy types are a simplified version of Hubble's classification.
+
+2) Magnitude values are provided by the Paris Observatory and use the V band
+
+
+===
 If some interest is shown, we may put up a web interface with custom queries sometime
 
 Enjoy
