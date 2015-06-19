@@ -1,0 +1,13 @@
+CONSTNAME: lang, _name
+const named, 1N CONSTELLATION, 11 CONSTNAME
+CONSTELLATION: c_id
+inside, 11 OBJECT, 0N CONSTELLATION
+OBJECT: o_id, RA, DECL, magnitude, diam
+main type, 11 OBJECT, 0N OBJTYPE
+OBJTYPE: t_id
+type named, 1N OBJTYPE, 11 TYPENAME
+TYPENAME: lang, _name
+
+object named, 1N OBJECT, 11 OBJNAME
+
+OBJNAME: lang, _name, is_alias 

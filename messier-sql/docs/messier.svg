@@ -1,0 +1,166 @@
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+"http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+
+<svg width="974" height="316" viewBox="0 0 974 316"
+xmlns="http://www.w3.org/2000/svg"
+xmlns:link="http://www.w3.org/1999/xlink">
+
+<desc>Généré par Mocodo 1.6.1 le Fri, 19 Jun 2015 12:47:08</desc>
+
+<rect x="0" y="0" width="974" height="316" fill="none" stroke="none" stroke-width="0"/>
+
+<!-- Association inside -->
+<line x1="512" y1="68" x2="425" y2="68" stroke="#726f83" stroke-width="1"/>
+<text x="454" y="84.05" fill="#726f83" font-family="Liberation Serif" font-size="12">1,1</text>
+<line x1="310" y1="68" x2="425" y2="68" stroke="#726f83" stroke-width="1"/>
+<text x="378" y="84.05" fill="#726f83" font-family="Liberation Serif" font-size="12">0,N</text>
+<g id="association-inside">
+	<path d="M 435 43 a 14 14 90 0 1 14 14 V 68 h -48 V 57 a 14 14 90 0 1 14 -14" fill="#b2bba4" stroke="#b2bba4" stroke-width="0"/>
+	<path d="M 449 68 v 11 a 14 14 90 0 1 -14 14 H 415 a 14 14 90 0 1 -14 -14 V 68 H 48" fill="#ccd6ba" stroke="#ccd6ba" stroke-width="0"/>
+	<rect x="401" y="43" width="48" height="50" fill="None" rx="14" stroke="#85956b" stroke-width="1.5"/>
+	<line x1="401" y1="68" x2="449" y2="68" stroke="#85956b" stroke-width="1"/>
+	<text x="408" y="60.75" fill="#27360c" font-family="Liberation Serif" font-size="14">inside</text>
+</g>
+
+<!-- Association main type -->
+<line x1="512" y1="68" x2="610" y2="68" stroke="#726f83" stroke-width="1"/>
+<text x="552" y="84.05" fill="#726f83" font-family="Liberation Serif" font-size="12">1,1</text>
+<line x1="708" y1="68" x2="610" y2="68" stroke="#726f83" stroke-width="1"/>
+<text x="650" y="84.05" fill="#726f83" font-family="Liberation Serif" font-size="12">0,N</text>
+<g id="association-main type">
+	<path d="M 631 43 a 14 14 90 0 1 14 14 V 68 h -70 V 57 a 14 14 90 0 1 14 -14" fill="#b2bba4" stroke="#b2bba4" stroke-width="0"/>
+	<path d="M 645 68 v 11 a 14 14 90 0 1 -14 14 H 589 a 14 14 90 0 1 -14 -14 V 68 H 70" fill="#ccd6ba" stroke="#ccd6ba" stroke-width="0"/>
+	<rect x="575" y="43" width="70" height="50" fill="None" rx="14" stroke="#85956b" stroke-width="1.5"/>
+	<line x1="575" y1="68" x2="645" y2="68" stroke="#85956b" stroke-width="1"/>
+	<text x="582" y="60.75" fill="#27360c" font-family="Liberation Serif" font-size="14">main type</text>
+</g>
+
+<!-- Association const named -->
+<line x1="310" y1="68" x2="177" y2="68" stroke="#726f83" stroke-width="1"/>
+<text x="224" y="84.05" fill="#726f83" font-family="Liberation Serif" font-size="12">1,N</text>
+<line x1="58" y1="68" x2="177" y2="68" stroke="#726f83" stroke-width="1"/>
+<text x="112" y="84.05" fill="#726f83" font-family="Liberation Serif" font-size="12">1,1</text>
+<g id="association-const named">
+	<path d="M 205 43 a 14 14 90 0 1 14 14 V 68 h -84 V 57 a 14 14 90 0 1 14 -14" fill="#b2bba4" stroke="#b2bba4" stroke-width="0"/>
+	<path d="M 219 68 v 11 a 14 14 90 0 1 -14 14 H 149 a 14 14 90 0 1 -14 -14 V 68 H 84" fill="#ccd6ba" stroke="#ccd6ba" stroke-width="0"/>
+	<rect x="135" y="43" width="84" height="50" fill="None" rx="14" stroke="#85956b" stroke-width="1.5"/>
+	<line x1="135" y1="68" x2="219" y2="68" stroke="#85956b" stroke-width="1"/>
+	<text x="142" y="60.75" fill="#27360c" font-family="Liberation Serif" font-size="14">const named</text>
+</g>
+
+<!-- Association object named -->
+<line x1="512" y1="68" x2="512" y2="175" stroke="#726f83" stroke-width="1"/>
+<text x="517.0" y="143.05" fill="#726f83" font-family="Liberation Serif" font-size="12">1,N</text>
+<line x1="512" y1="265" x2="512" y2="175" stroke="#726f83" stroke-width="1"/>
+<text x="517.0" y="216.05" fill="#726f83" font-family="Liberation Serif" font-size="12">1,1</text>
+<g id="association-object named">
+	<path d="M 543 150 a 14 14 90 0 1 14 14 V 175 h -90 V 164 a 14 14 90 0 1 14 -14" fill="#b2bba4" stroke="#b2bba4" stroke-width="0"/>
+	<path d="M 557 175 v 11 a 14 14 90 0 1 -14 14 H 481 a 14 14 90 0 1 -14 -14 V 175 H 90" fill="#ccd6ba" stroke="#ccd6ba" stroke-width="0"/>
+	<rect x="467" y="150" width="90" height="50" fill="None" rx="14" stroke="#85956b" stroke-width="1.5"/>
+	<line x1="467" y1="175" x2="557" y2="175" stroke="#85956b" stroke-width="1"/>
+	<text x="474" y="167.75" fill="#27360c" font-family="Liberation Serif" font-size="14">object named</text>
+</g>
+
+<!-- Association type named -->
+<line x1="708" y1="68" x2="811" y2="68" stroke="#726f83" stroke-width="1"/>
+<text x="748" y="84.05" fill="#726f83" font-family="Liberation Serif" font-size="12">1,N</text>
+<line x1="922" y1="68" x2="811" y2="68" stroke="#726f83" stroke-width="1"/>
+<text x="856" y="84.05" fill="#726f83" font-family="Liberation Serif" font-size="12">1,1</text>
+<g id="association-type named">
+	<path d="M 837 43 a 14 14 90 0 1 14 14 V 68 h -80 V 57 a 14 14 90 0 1 14 -14" fill="#b2bba4" stroke="#b2bba4" stroke-width="0"/>
+	<path d="M 851 68 v 11 a 14 14 90 0 1 -14 14 H 785 a 14 14 90 0 1 -14 -14 V 68 H 80" fill="#ccd6ba" stroke="#ccd6ba" stroke-width="0"/>
+	<rect x="771" y="43" width="80" height="50" fill="None" rx="14" stroke="#85956b" stroke-width="1.5"/>
+	<line x1="771" y1="68" x2="851" y2="68" stroke="#85956b" stroke-width="1"/>
+	<text x="778" y="60.75" fill="#27360c" font-family="Liberation Serif" font-size="14">type named</text>
+</g>
+
+<!-- Entity TYPENAME -->
+<g id="entity-TYPENAME">
+	<g id="frame-TYPENAME">
+		<rect x="879" y="34" width="86" height="25" fill="#97b8ff" stroke="#97b8ff" stroke-width="0"/>
+		<rect x="879" y="59" width="86" height="43" fill="#c0d4ff" stroke="#c0d4ff" stroke-width="0"/>
+		<rect x="879" y="34" width="86" height="68" fill="None" stroke="#578dff" stroke-width="1.5"/>
+		<line x1="879" y1="59" x2="965" y2="59" stroke="#578dff" stroke-width="1"/>
+	</g>
+	<text x="884" y="51.75" fill="#131114" font-family="Liberation Serif" font-size="14">TYPENAME</text>
+	<text x="884" y="76.75" fill="#3e3c42" font-family="Liberation Serif" font-size="14">lang</text>
+	<line x1="884" y1="79.0" x2="908" y2="79.0" stroke="#3e3c42" stroke-width="1"/>
+	<text x="884" y="93.75" fill="#3e3c42" font-family="Liberation Serif" font-size="14">name</text>
+	<line x1="884" y1="96.0" x2="914" y2="96.0" stroke="#3e3c42" stroke-width="1"/>
+</g>
+
+<!-- Entity OBJECT -->
+<g id="entity-OBJECT">
+	<g id="frame-OBJECT">
+		<rect x="477" y="9" width="70" height="25" fill="#97b8ff" stroke="#97b8ff" stroke-width="0"/>
+		<rect x="477" y="34" width="70" height="93" fill="#c0d4ff" stroke="#c0d4ff" stroke-width="0"/>
+		<rect x="477" y="9" width="70" height="118" fill="None" stroke="#578dff" stroke-width="1.5"/>
+		<line x1="477" y1="34" x2="547" y2="34" stroke="#578dff" stroke-width="1"/>
+	</g>
+	<text x="486" y="26.75" fill="#131114" font-family="Liberation Serif" font-size="14">OBJECT</text>
+	<text x="482" y="51.75" fill="#3e3c42" font-family="Liberation Serif" font-size="14">o_id</text>
+	<line x1="482" y1="54.0" x2="507" y2="54.0" stroke="#3e3c42" stroke-width="1"/>
+	<text x="482" y="68.75" fill="#3e3c42" font-family="Liberation Serif" font-size="14">RA</text>
+	<text x="482" y="85.75" fill="#3e3c42" font-family="Liberation Serif" font-size="14">DECL</text>
+	<text x="482" y="102.75" fill="#3e3c42" font-family="Liberation Serif" font-size="14">magnitude</text>
+	<text x="482" y="119.75" fill="#3e3c42" font-family="Liberation Serif" font-size="14">diam</text>
+</g>
+
+<!-- Entity CONSTNAME -->
+<g id="entity-CONSTNAME">
+	<g id="frame-CONSTNAME">
+		<rect x="9" y="34" width="98" height="25" fill="#97b8ff" stroke="#97b8ff" stroke-width="0"/>
+		<rect x="9" y="59" width="98" height="43" fill="#c0d4ff" stroke="#c0d4ff" stroke-width="0"/>
+		<rect x="9" y="34" width="98" height="68" fill="None" stroke="#578dff" stroke-width="1.5"/>
+		<line x1="9" y1="59" x2="107" y2="59" stroke="#578dff" stroke-width="1"/>
+	</g>
+	<text x="14" y="51.75" fill="#131114" font-family="Liberation Serif" font-size="14">CONSTNAME</text>
+	<text x="14" y="76.75" fill="#3e3c42" font-family="Liberation Serif" font-size="14">lang</text>
+	<line x1="14" y1="79.0" x2="38" y2="79.0" stroke="#3e3c42" stroke-width="1"/>
+	<text x="14" y="93.75" fill="#3e3c42" font-family="Liberation Serif" font-size="14">name</text>
+	<line x1="14" y1="96.0" x2="44" y2="96.0" stroke="#3e3c42" stroke-width="1"/>
+</g>
+
+<!-- Entity OBJNAME -->
+<g id="entity-OBJNAME">
+	<g id="frame-OBJNAME">
+		<rect x="474" y="223" width="76" height="25" fill="#97b8ff" stroke="#97b8ff" stroke-width="0"/>
+		<rect x="474" y="248" width="76" height="59" fill="#c0d4ff" stroke="#c0d4ff" stroke-width="0"/>
+		<rect x="474" y="223" width="76" height="84" fill="None" stroke="#578dff" stroke-width="1.5"/>
+		<line x1="474" y1="248" x2="550" y2="248" stroke="#578dff" stroke-width="1"/>
+	</g>
+	<text x="479" y="240.75" fill="#131114" font-family="Liberation Serif" font-size="14">OBJNAME</text>
+	<text x="479" y="265.75" fill="#3e3c42" font-family="Liberation Serif" font-size="14">lang</text>
+	<line x1="479" y1="268.0" x2="503" y2="268.0" stroke="#3e3c42" stroke-width="1"/>
+	<text x="479" y="282.75" fill="#3e3c42" font-family="Liberation Serif" font-size="14">name</text>
+	<line x1="479" y1="285.0" x2="509" y2="285.0" stroke="#3e3c42" stroke-width="1"/>
+	<text x="479" y="299.75" fill="#3e3c42" font-family="Liberation Serif" font-size="14">is_alias</text>
+</g>
+
+<!-- Entity OBJTYPE -->
+<g id="entity-OBJTYPE">
+	<g id="frame-OBJTYPE">
+		<rect x="673" y="43" width="70" height="25" fill="#97b8ff" stroke="#97b8ff" stroke-width="0"/>
+		<rect x="673" y="68" width="70" height="25" fill="#c0d4ff" stroke="#c0d4ff" stroke-width="0"/>
+		<rect x="673" y="43" width="70" height="50" fill="None" stroke="#578dff" stroke-width="1.5"/>
+		<line x1="673" y1="68" x2="743" y2="68" stroke="#578dff" stroke-width="1"/>
+	</g>
+	<text x="678" y="60.75" fill="#131114" font-family="Liberation Serif" font-size="14">OBJTYPE</text>
+	<text x="678" y="85.75" fill="#3e3c42" font-family="Liberation Serif" font-size="14">t_id</text>
+	<line x1="678" y1="88.0" x2="700" y2="88.0" stroke="#3e3c42" stroke-width="1"/>
+</g>
+
+<!-- Entity CONSTELLATION -->
+<g id="entity-CONSTELLATION">
+	<g id="frame-CONSTELLATION">
+		<rect x="247" y="43" width="126" height="25" fill="#97b8ff" stroke="#97b8ff" stroke-width="0"/>
+		<rect x="247" y="68" width="126" height="25" fill="#c0d4ff" stroke="#c0d4ff" stroke-width="0"/>
+		<rect x="247" y="43" width="126" height="50" fill="None" stroke="#578dff" stroke-width="1.5"/>
+		<line x1="247" y1="68" x2="373" y2="68" stroke="#578dff" stroke-width="1"/>
+	</g>
+	<text x="252" y="60.75" fill="#131114" font-family="Liberation Serif" font-size="14">CONSTELLATION</text>
+	<text x="252" y="85.75" fill="#3e3c42" font-family="Liberation Serif" font-size="14">c_id</text>
+	<line x1="252" y1="88.0" x2="276" y2="88.0" stroke="#3e3c42" stroke-width="1"/>
+</g>
+</svg>
